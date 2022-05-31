@@ -1,0 +1,458 @@
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2021-12-25 17:26:06
+#### Stack:
+-- Level 1
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home/daapkits/public_html/mc_ctrl.php
+-------- line: 24
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2021-12-25 17:26:06
+#### Stack:
+-- Level 1
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home/daapkits/public_html/mc_ctrl.php
+-------- line: 24
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2021-12-25 17:26:06
+#### Stack:
+-- Level 1
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home/daapkits/public_html/mc_ctrl.php
+-------- line: 24
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2021-12-25 17:26:06
+#### Stack:
+-- Level 1
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home/daapkits/public_html/mc_ctrl.php
+-------- line: 24
+-------- function: addPhrase
+---------------------------END###
+**** Query Execution Error [SQE::0] ****
+########################
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1 SELECTstring Query
+########################
+#### Time: 2022-01-14 18:04:03
+#### Stack:
+-- Level 1
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 278
+-------- function: show_exception
+-- Level 2
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 143
+-------- function: query
+-- Level 3
+-------- file: /home/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 146
+-------- function: query_select
+-- Level 4
+-------- file: /home/daapkits/public_html/mc_ctrl.php
+-------- line: 23
+-------- function: getPhrases
+---------------------------END###
+**** Query Execution Error [SQE::0] ****
+########################
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1 SELECTstring Query
+########################
+#### Time: 2022-01-14 18:04:09
+#### Stack:
+-- Level 1
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 278
+-------- function: show_exception
+-- Level 2
+-------- file: /home/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 143
+-------- function: query
+-- Level 3
+-------- file: /home/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 146
+-------- function: query_select
+-- Level 4
+-------- file: /home/daapkits/public_html/mc_ctrl.php
+-------- line: 23
+-------- function: getPhrases
+---------------------------END###
+**** Query Execution Error [SQE::0] ****
+########################
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1000,1000' at line 1 SELECTstring Query
+########################
+#### Time: 2022-02-13 18:12:31
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 278
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 143
+-------- function: query
+-- Level 3
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 146
+-------- function: query_select
+-- Level 4
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 23
+-------- function: getPhrases
+---------------------------END###
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2022-02-13 18:12:50
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2022-02-13 18:12:50
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2022-02-13 18:12:50
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2022-02-13 18:12:50
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Query Execution Error [SQE::0] ****
+########################
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1000,1000' at line 1 SELECTstring Query
+########################
+#### Time: 2022-02-13 18:13:16
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 278
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/SQL_CORE.php
+-------- line: 143
+-------- function: query
+-- Level 3
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 146
+-------- function: query_select
+-- Level 4
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 23
+-------- function: getPhrases
+---------------------------END###
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2022-02-13 18:17:02
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2022-02-13 18:17:02
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2022-02-13 18:17:02
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2022-02-13 18:17:02
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2022-02-13 18:17:12
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2022-02-13 18:17:12
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 102
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::1] ****
+########################
+No value passed! An empty string cannot be cleaned
+########################
+#### Time: 2022-02-13 18:17:12
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 73
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Cleanse Error [SQE-CL::2] ****
+########################
+A Non-String Value was encountered! string
+########################
+#### Time: 2022-02-13 18:17:12
+#### Stack:
+-- Level 1
+-------- file: /home2/daapkits/public_html/osai/SQL_MODULES/TRAITS/EXTENSIONS/_CLEAN.php
+-------- line: 75
+-------- function: show_exception
+-- Level 2
+-------- file: /home2/daapkits/public_html/back/assets/php/xxx.inc
+-------- line: 103
+-------- function: clean
+-- Level 3
+-------- file: /home2/daapkits/public_html/mc_ctrl.php
+-------- line: 26
+-------- function: addPhrase
+---------------------------END###
+**** Connection Error [SQE-CO::6] ****
+########################
+Access denied for user 'leo_osait'@'localhost' (using password: YES)
+########################
+#### Time: 2022-05-31 12:29:56
+#### Stack:
+-- Level 1
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL_MODULES/TRAITS/SQL_CONFIG.php
+-------- line: 45
+-------- function: show_exception
+-- Level 2
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL_MODULES/TRAITS/SQL_CONFIG.php
+-------- line: 22
+-------- function: connect
+-- Level 3
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL_MODULES/TRAITS/SQL_CONFIG.php
+-------- line: 14
+-------- function: ___init
+-- Level 4
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL.php
+-------- line: 36
+-------- function: _init
+-- Level 5
+-------- file: /var/www/sites/clients/phrase-backup/back/assets/php/xxx.inc
+-------- line: 26
+-------- function: init
+-- Level 6
+-------- file: /var/www/sites/clients/phrase-backup/index.php
+-------- line: 2
+-------- function: include_once
+---------------------------END###
+**** Connection Error [SQE-CO::6] ****
+########################
+Access denied for user 'leo_osait'@'localhost' (using password: YES)
+########################
+#### Time: 2022-05-31 12:58:17
+#### Stack:
+-- Level 1
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL_MODULES/TRAITS/SQL_CONFIG.php
+-------- line: 45
+-------- function: show_exception
+-- Level 2
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL_MODULES/TRAITS/SQL_CONFIG.php
+-------- line: 22
+-------- function: connect
+-- Level 3
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL_MODULES/TRAITS/SQL_CONFIG.php
+-------- line: 14
+-------- function: ___init
+-- Level 4
+-------- file: /var/www/sites/clients/phrase-backup/osai/SQL.php
+-------- line: 36
+-------- function: _init
+-- Level 5
+-------- file: /var/www/sites/clients/phrase-backup/back/assets/php/xxx.inc
+-------- line: 26
+-------- function: init
+-- Level 6
+-------- file: /var/www/sites/clients/phrase-backup/index.php
+-------- line: 2
+-------- function: include_once
+---------------------------END###
